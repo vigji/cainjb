@@ -57,10 +57,10 @@ def update_markdown_file(md_path, pdf_text):
     # Reconstruct the content with new text
     new_content = (
         f"{before_annotated}"
-        f"{annotated_marker}\n```python\n{pdf_text}\n```\n\n"
+        f"{annotated_marker}\n```\n{pdf_text}\n```\n\n"
         f"{original_page_marker}\n[page_{page_num}.pdf]"
         f"(https://github.com/vigji/cainjb/blob/main/source_material/pages/page_{page_num}.pdf)\n\n"
-        f"{original_text_marker}\n```python\n{pdf_text}\n```\n"
+        f"{original_text_marker}\n```\n{pdf_text}\n```\n"
         f"{after_original_text}"
     )
 
