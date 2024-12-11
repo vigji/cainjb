@@ -1,0 +1,79 @@
+#### POV: 
+  - *tense*: past
+  - *gender*:
+  - *species*:
+  - *cues*: funny word split (`to-day`)
+#### Subjects:
+  - *cues*: Henry
+#### Location:
+  - *cues*: London?
+#### Time:
+  - *cues*:
+#### Events:
+  - *cues*:
+#### Sequence:
+  - *precedes*: 
+  - *follows*:
+**Notes**:
+
+
+**Annotated text**:
+I plunged for the last time. The few remaining
+figures and letters swam as they came up to me.
+Then I took them in. There were no more. I
+glanced about me. I felt I was getting my
+money’s worth. London is like that ; it accepts
+the wanderer home with a sort of warm
+indifference. The woman’s beauty was, I
+surmised, profound ; her creamy dress,
+contrasting with her vivid colouring, showed to
+me, though more as white against a gay brick
+sepulchre than snow against roses. Yes it was a
+dreadful beauty, as far as I could see, and I
+recalled the stark phrases : Which swept an
+hundred thousand souls away ; yet I alive. But
+he was not ; the writer had strangely died
+to-day. And again they continued this wretched
+course three or four days : but they were every
+one of them carried into the great pit before it
+was quite filled up. Where was Henry? Ah, he
+was standing by her, close enough to touch the
+small buoyant face that topped her pillared
+neck most like a bell-flower on its bed. Would
+he appreciate?
+```
+
+Original page:
+[pag2.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_2.pdf)
+
+
+**Original text**:
+```
+I plunged for the last time. The few remaining
+figures and letters swam as they came up to me.
+Then I took them in. There were no more. I
+glanced about me. I felt I was getting my
+money’s worth. London is like that ; it accepts
+the wanderer home with a sort of warm
+indifference. The woman’s beauty was, I
+surmised, profound ; her creamy dress,
+contrasting with her vivid colouring, showed to
+me, though more as white against a gay brick
+sepulchre than snow against roses. Yes it was a
+dreadful beauty, as far as I could see, and I
+recalled the stark phrases : Which swept an
+hundred thousand souls away ; yet I alive. But
+he was not ; the writer had strangely died
+to-day. And again they continued this wretched
+course three or four days : but they were every
+one of them carried into the great pit before it
+was quite filled up. Where was Henry? Ah, he
+was standing by her, close enough to touch the
+small buoyant face that topped her pillared
+neck most like a bell-flower on its bed. Would
+he appreciate?
+```
+
+**Italian text**:
+```
+```
