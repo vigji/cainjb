@@ -45,6 +45,7 @@ There might be two?:
    Therapeutic and poisonous. Asphyxiant (AChE inhibitor)
    - [59](pages/page_59.md) Nestor guy
    - [86](pages/page_86.md) Nestor guy
+   - [6](pages/page_06.md) Nestor guy
 
  - Aconitum
    (Fleming's Tincture, Monk's hood, Wolfsbane, Blue Rocket, Devil's helmet). Blue flowers. Quick death immediate/within 6 hours
@@ -63,7 +64,7 @@ There might be two?:
  - Digitalis purpurea
    (Foxglove, Biennale)
    - [21](pages/page_21.md)
-
+   - [6](pages/page_06.md) Nestor guy
  - Lords and Ladies
    (Lilac-tree, False Lily of the Valley, Adam and Eve, Adders meat, Jack in the pulpit, cuckoopint)
    - [29](pages/page_29.md)
