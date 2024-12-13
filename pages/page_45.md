@@ -18,9 +18,19 @@
 
 
 **Annotated text**:
-`It was when that half Pole, half Frenchman, and usually up the first half, that self-styled drunken mongrel and lazy waster, got normally out of bed.` Another quote from the Typhoon. "half  Pole,  half  Frenchman, drunken  mongrel, lazy waster, and the rest of it — "
+`It was when that half Pole, half Frenchman, and usually up the first half, that self-styled drunken mongrel and lazy waster, got normally out of bed.` Another quote from the Typhoon. "half  Pole,  half  Frenchman, drunken  mongrel, lazy waster, and the rest of it — ". [text](https://archive.org/stream/typhoonlengyel00lengiala/typhoonlengyel00lengiala_djvu.txt). See [page 07](pages/page_07.md).
 
-`I remembered that when Hlne told him of her attachment he gave up brandy. And took to absinthe. It was one of the times that he had an absinthe. They said that it made the heart grow fonder. What had I actually seen? I had seen Henry---surely I had heard him called so---bending innocently over an innocent corpse of his own making. And I had also seen the doctor leading the old man up the garden, not once or twice, but many times. The girl was no longer there. I stayed myself with devilled Epicam and Royans aux Achard, levered into me with Peter Barleys and washed down and out, foul thought, with Villacabras. But one was so helpless alone in a great building of many flats : I was glad I had not given up stealing at the doors.`
+`I remembered that when Hélène told him of her attachment he gave up brandy. And took to absinthe. It was one of the times that he had an absinthe. They said that it made the heart grow fonder.` Another reference to the Typhon: "HELENE.  He  gave  up  brandy — and  took  to bsinthe. "
+
+`What had I actually seen?`
+
+`I had seen Henry---surely I had heard him called so---bending innocently over an innocent corpse of his own making.`
+
+`And I had also seen the doctor leading the old man up the garden, not once or twice, but many times. The girl was no longer there.` Nestor guy & May?
+
+`I stayed myself with devilled Epicam and Royans aux Achard, levered into me with Peter Barleys and washed down and out, foul thought, with Villacabras.`
+
+`But one was so helpless alone in a great building of many flats : I was glad I had not given up stealing at the doors.`
 
 
 Original page:
