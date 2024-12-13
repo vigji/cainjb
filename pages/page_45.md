@@ -20,7 +20,7 @@
 **Annotated text**:
 `It was when that half Pole, half Frenchman, and usually up the first half, that self-styled drunken mongrel and lazy waster, got normally out of bed.` Another quote from the Typhoon. "half  Pole,  half  Frenchman, drunken  mongrel, lazy waster, and the rest of it — ". [text](https://archive.org/stream/typhoonlengyel00lengiala/typhoonlengyel00lengiala_djvu.txt). See [page 07](pages/page_07.md).
 
-`I remembered that when Hélène told him of her attachment he gave up brandy. And took to absinthe. It was one of the times that he had an absinthe. They said that it made the heart grow fonder.` Another reference to the Typhon: "HELENE.  He  gave  up  brandy — and  took  to bsinthe. "
+`I remembered that when Hélène told him of her attachment he gave up brandy. And took to absinthe. It was one of the times that he had an absinthe. They said that it made the heart grow fonder.` Another reference to the Typhoon: "HELENE.  He  gave  up  brandy — and  took  to bsinthe. "
 
 `What had I actually seen?`
 

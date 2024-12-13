@@ -1,7 +1,7 @@
 #### POV: 
   - *tense*:
   - *gender*:
-  - *species*:
+  - *species*: dog
   - *cues*:
 #### Subjects:
   - *cues*:
@@ -18,7 +18,18 @@
 
 
 **Annotated text**:
-`In one way, of course, I was glad they were married. I had always been rather a stickler for purity in family life. That scandalous rumour of a Maltese landing on our island and seducing an ancestress of mine---or was it an ancestor?---from the path of duty, I never had and never would believe. If I had had a real education, instead of just listening to him, I could have told---it was bad that day---how I detested being called Hal. It was she that did it. But he was pleased in a way, and said to her, out of a book, the original ground of the transaction appears to have been sentimental : He was my friend, says the murderous doctor ; he was dear to me. Some Tom, not the one I killed in the matter of Jasmine, had done that, I gathered. He was enthusiastic and provided a chop for me, and said it was good he had visited England to-day for the first time.`
+`In one way, of course, I was glad they were married. I had always been rather a stickler for purity in family life.`
+
+`That scandalous rumour of a Maltese landing on our island and seducing an ancestress of mine---or was it an ancestor?---from the path of duty, I never had and never would believe.` Yorkshire Terrier? Dog breeding with Maltese among the ancestors
+
+`If I had had a real education, instead of just listening to him, I could have told---it was bad that day---how I detested being called Hal. It was she that did it. `
+
+`But he was pleased in a way, and said to her, out of a book, the original ground of the transaction appears to have been sentimental: He was my friend, says the murderous doctor; he was dear to me.` [Thomas de Quincey, _second paper on murder_](https://www.authorama.com/miscellaneous-essays-2.html)
+The pollinctor, you are aware, was a person whose business it was to dress and prepare dead bodies for burial. The original ground of the transaction appears to have been sentimental: ’He was my friend,’ says the murderous doctor; ’he was dear to me,’ in speaking of the pollinctor. 
+
+`Some Tom, not the one I killed in the matter of Jasmine, had done that, I gathered.` Thomas de Quincey; dog killed Tom?
+
+`He was enthusiastic and provided a chop for me, and said it was good he had visited England to-day for the first time.`
 
 Original page:
 [page_46.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_46.pdf)
