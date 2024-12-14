@@ -22,11 +22,13 @@
 
 `Afterwards I brought in my rough old friend Calabar Bean to help me---this on the very day when I had proved digitalis purpurea, though I did not know if the profession prescribe it usually as such, a signal wash out. But why should this aspect have come into my head?`
 
-`Far, far from here the Adriatic breaks in a warm bay among the green Illyrian hills. Matthew, Mark, Luke, and John. Read Mark Twain and inwardly digest. `
+`Far, far from here the Adriatic breaks in a warm bay among the green Illyrian hills.` cit. Cadmus and Harmonia, BY MATTHEW ARNOLD
+
+`Matthew, Mark, Luke, and John. Read Mark Twain and inwardly digest.`
 
 `But I had to keep my wits about me. He pottered about with me and succeeded at last in making friends with Henry.` 
 
-`Already he felt that I was leading him to the fountain Ponce de Leon sought, where he who drinks is deathless. And he was not so far wrong.`
+`Already he felt that I was leading him to the fountain Ponce de Leon sought, where he who drinks is deathless. And he was not so far wrong.` a conquistador, searching for Fountain of Youth
 
 Original page:
 [page_21.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_21.pdf)
