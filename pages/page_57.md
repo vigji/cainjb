@@ -21,9 +21,6 @@
 `It seemed from what I heard that Feltons meat had been delivered at Brookesley for the first time that day. I wondered if it was good and plentiful. Not that I really liked to think about meat, though we were alone again. I thought it crude of him to talk about no noise here, but the toning of a tear, or a sigh of such as bring cowslips for her covering, until I realised that he was thinking that Bens friend had been, in point of time, like Feltons meat. Over the Westphalian ham, which I contrived to share, he read bits of paper about Hilary and the Amazon, and Stella Polaris and Voltaire, and the City of Nagpur, and Vandyck, and other lovely people. I wondered if he wasnt thinking of going on a holiday. It seemed a pity to me ; so unnecessary, just then. I knew nothing at all about boats. Some of my people had known the old Armadale Castle well enough, doubtless ; but that wasnt the boat that went to South Africa.`
 
 
-
-```
-
 Original page:
 [page_57.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_57.pdf)
 

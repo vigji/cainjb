@@ -18,7 +18,19 @@
 
 
 **Annotated text**:
-`What chemistry! That the winds are really not infectious. Now that I was approaching journeys end, I began to ask myself disconcerting questions. It would be terrible if she turned out to be Fleckers one. And some to Flecker turn to pray, and I toward thy bed. But I had probably got it wrong. Yet it was all right. Her spelling was different and it was long ago. Yes, but supposing she came of the family of Jacks visitor, with Thornhill, who promised the opera? I could never be sure of that. I took a pill. But it was worth it. Yes, it was worth it. The bean bursts noiselessly through the mould in the garden. He certainly could put that sort of thing over, the dear old bean. Out of its little hill faithfully rise the potatos dark green leaves. Thames Dittons sister, as Eric Parker calls her---and one remembered the Irishmans malapropism in the same tale---had soon passed. Long she was ; but I did not linger to pay court to her.`
+`What chemistry! That the winds are really not infectious. Now that I was approaching journeys end, I began to ask myself disconcerting questions.`
+
+`It would be terrible if she turned out to be Fleckers one. And some to Flecker turn to pray, and I toward thy bed. But I had probably got it wrong. Yet it was all right. Her spelling was different and it was long ago.`
+
+`Yes, but supposing she came of the family of Jacks visitor, with Thornhill, who promised the opera? I could never be sure of that. I took a pill. But it was worth it. Yes, it was worth it.`
+
+`The bean bursts noiselessly through the mould in the garden.` _This Compost_, by Walt Whitman
+
+`He certainly could put that sort of thing over, the dear old bean.`
+
+`Out of its little hill faithfully rise the potatos dark green leaves.` _This Compost_, by Walt Whitman
+
+`Thames Dittons sister, as Eric Parker calls her---and one remembered the Irishmans malapropism in the same tale---had soon passed. Long she was; but I did not linger to pay court to her.`
 
 
 Original page:
