@@ -24,7 +24,7 @@
 
 `I felt I should enjoy it as I got used to it. The bell again, and then a far sensation of feet. I was glad the man had come; time was not unlimited.`
 
-`I remembered that, when I was returning after a fortnight’s absence during which my assistant Charles Day had deputised for me in my lectures on mineralogy at Peebles University, a tactless hand had left on the blackboard: “Let us work while it is yet Day; for the Knight cometh when no man can work.”` John 9:4
+`I remembered that, when I was returning after a fortnight’s absence during which my assistant Charles Day had deputised for me in my lectures on mineralogy at Peebles University, a tactless hand had left on the blackboard: “Let us work while it is yet Day; for the Knight cometh when no man can work.”` John 9:4 night instead olf knight
 
 
 Original page:

@@ -18,9 +18,9 @@
 
 
 **Annotated text**:
-`Then came Hyacinth’s day. He laughed when he remembered that, as we were walking round the garden, and said it was too late for Jasmine’s day at any rate.`
+`Then came Hyacinth’s day. He laughed when he remembered that, as we were walking round the garden, and said it was too late for Jasmine’s day at any rate.` 17 August?
 
-`I liked to hear him laugh, and thought it was absurd for him to be called after what the man Boots didn’t understand.` 
+`I liked to hear him laugh, and thought it was absurd for him to be called after what the man Boots didn’t understand.`  ??? Rudyard Kipling poem?
 
 `The latter’s way of expressing himself seemed to me childish ; why should we, of all people, use singular for plural and plural for singular?` 
 

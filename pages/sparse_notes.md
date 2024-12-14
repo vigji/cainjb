@@ -3,6 +3,7 @@
 Thomas De Quincey (1785–1859) was a British essayist and literary figure best known for his Confessions of an English Opium-Eater (1821). A master of the macabre and deeply influenced by Romanticism, he often explored themes of addiction, dreams, and the grotesque. One of his most peculiar works is On Murder Considered as One of the Fine Arts, a satirical and darkly humorous essay series that treats murder as an aesthetic subject.
 
 Seems to be an important text, explanation for the title! 
+[full text](https://www.epedagogia.com.br/materialbibliotecaonine/39040n-Murder-Considered-as-0ne-of-the-Fine-Arts.pdf)
 
 Some passages:
 
