@@ -20,7 +20,7 @@
 **Annotated text**:
 `At my meeting with Clement yesterday, he had been quite specific : less than twenty thousand yards as average---seventeen thousand six hundred to be exact---full ration of the assassin’s wonderful substance, a little act of justice at the end of less than a week, and then the glorious stuff galore for ever.`
 
-`I felt excellent as I took my second pill. At least I was on my way, for I had come upon the major half of a publishing firm ; they had always been very good to me, what with Austin Freeman, Oppenheim and Mary Roberts Rinehart.`
+`I felt excellent as I took my second pill. At least I was on my way, for I had come upon the major half of a publishing firm ; they had always been very good to me, what with Austin Freeman, Oppenheim and Mary Roberts Rinehart.` [Hodder and Stoughton Little -> Hodder?]
 
 `O my mother was loath to have her go away, all the week she thought of her, she watched for her many a month. And then there was a forgotten line.`
 

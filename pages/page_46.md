@@ -4,7 +4,7 @@
   - *species*: dog
   - *cues*:
 #### Subjects:
-  - *cues*:
+  - *cues*: someone is talking about Quincey
 #### Location:
   - *cues*:
 #### Time:

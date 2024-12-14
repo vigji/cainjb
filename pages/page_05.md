@@ -24,11 +24,11 @@ Emperor's peg?
 
 `And I would have to cut out the stops, I realised futilely, for something vaguely Buddhistic.`
 
-`He went on about Browning. I always used Bisto myself, and anyway Henry, the angel, was plying his intended fifth with Emperor’s Peg---equal parts of vitriol and applejack in his case---at the top of the ruined lighthouse.`
+`He went on about Browning. I always used Bisto myself, and anyway Henry, the angel, was plying his intended fifth with Emperor’s Peg---equal parts of vitriol and applejack in his case---at the top of the ruined lighthouse.` Bisto: gravvy powder, also by Cerebos
 
-`I incontinently powdered my nose. He told me that, as far as I could gather, a certain good-looking Evelyn Hope was dead.`
+`I incontinently powdered my nose. He told me that, as far as I could gather, a certain good-looking Evelyn Hope was dead.` Robert Browning poem
 
-`What Hopes? I meant, did one know the family? It was really the way he took it for granted that I would rather hear him talking about Cerebos and Cerebos and Cerebos or something than attend to poor Henry that irritated me beyond endurance.`
+`What Hopes? I meant, did one know the family? It was really the way he took it for granted that I would rather hear him talking about Cerebos and Cerebos and Cerebos or something than attend to poor Henry that irritated me beyond endurance.` Cerebos and Cerebos and Cerebos: company of nutritional supplements/salts
 
 
 Original page:

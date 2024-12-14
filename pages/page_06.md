@@ -22,7 +22,7 @@
 
 `Electric Febrifuge may be; but bad for life’s fitful fever. Its active ingredient had finally let me down.` Gelsemium sempervirens, Physicians prepared it as a nostrum called “Electrical Febrifuge” (Club, 1883).
 
-`I was nothing if not generous.I started my fellow garden enthusiast on the foxgloves.`
+`I was nothing if not generous.I started my fellow garden enthusiast on the foxgloves.` foxgloves: Digitalis
 
 `He would appreciate that if he knew. Yes, I was doing my best for the dear girl.`
 
