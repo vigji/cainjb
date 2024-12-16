@@ -18,31 +18,22 @@
 
 
 **Annotated text**:
-```
-A flower-seller, fed ruddily, it seemed, on hope, 
-broke in and would have made a round of all of 
-us. But she hurried away perforce without 
-gaining her point, leaving me with an 
-inexpensive memory of countryside flowers. 
-Our own and other countries : ironic daffodils, 
-irises of the stream, young pert bluebells, the 
-foreign hedge-rose and carnation. No gaudy 
-melon flower, indeed. Oh, to be in England ; 
-how unquotable he had become. For I was, was 
-I not? I must learn Spanish one of these days, 
-only for that slow sweet names sake. I paused 
-to pass my tongue over the dew distilled by the 
-red rose, the sole survivor, and made a sign 
-which brought Henry cat-like to me over the 
-floor. Here the old man dropped some metallic 
-object and his companion retrieved it with 
-daughterly swiftness. The hoarse newsboys with 
-their shouting of the late night final, as of 
-accomplished mal de mer, disturbed me a little. 
-Would there be any news? She enquired faintly 
-what he meant by that stuff about good news 
-from Ghent. 
-```
+`A flower-seller, fed ruddily, it seemed, on hope, broke in and would have made a round of all of us.`
+
+`But she hurried away perforce without gaining her point, leaving me with an inexpensive memory of countryside flowers.`
+
+`Our own and other countries :ironic daffodils, irises of the stream, young pert bluebells, the foreign hedge-rose and carnation. No gaudy melon flower, indeed. Oh, to be in England; how unquotable he had become.` "—Far brighter than this gaudy melon-flower!" _Home-Thoughts, from Abroad_ from Robert Browning
+
+
+`For I was, was I not? I must learn Spanish one of these days, only for that slow sweet names sake.`
+
+`I paused to pass my tongue over the dew distilled by the red rose, the sole survivor, and made a sign which brought Henry cat-like to me over the floor.`
+
+`Here the old man dropped some metallic object and his companion retrieved it with daughterly swiftness.`
+
+`The hoarse newsboys with their shouting of the late night final, as of accomplished mal de mer, disturbed me a little. Would there be any news?`
+
+`She enquired faintly what he meant by that stuff about good news from Ghent.` _How They Brought the Good News from Ghent to Aix_ from Robert Browning
 
 Original page:
 [page_83.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_83.pdf)

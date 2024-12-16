@@ -18,9 +18,16 @@
 
 
 **Annotated text**:
-```
-I was true to time. I had, it occurred to me, been something of an automaton. But wasnt I thrusting my head, when bent on such a business in this street, into the twin mouths of two lions, of Mycrofts brother and of the pale but multitudinous Blake? Often as a schoolboy they had guyed my name to a whiskified objectionable one. Whiskified objectionable was Kipling. And I blubbed with my face in the mackintoshes. But I thanked heaven that their childish jibe was true. I was still going strong. The murderer that is to be hung next day, how does he sleep? I only knew that all the weary business was ended. I looked across the table and saw that she was asleep. A nice old thing. I put Henrys keenness a few inches below the withered salt-cellar. I drove Henry home, and left him. A dog barked and mourned from the next room, but I could have all the stuff I wanted for ever. 
-```
+`I was true to time. I had, it occurred to me, been something of an automaton.`
+
+`But wasnt I thrusting my head, when bent on such a business in this street, into the twin mouths of two lions, of Mycrofts brother and of the pale but multitudinous Blake?`
+
+`Often as a schoolboy they had guyed my name to a whiskified objectionable one. Whiskified objectionable was Kipling. And I blubbed with my face in the mackintoshes.`
+
+`But I thanked heaven that their childish jibe was true. I was still going strong. The murderer that is to be hung next day, how does he sleep? I only knew that all the weary business was ended.`
+
+`I looked across the table and saw that she was asleep. A nice old thing. I put Henrys keenness a few inches below the withered salt-cellar. I drove Henry home, and left him. A dog barked and mourned from the next room, but I could have all the stuff I wanted for ever.`
+
 
 Original page:
 [page_85.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_85.pdf)
@@ -50,6 +57,7 @@ wanted for ever.
 ```
 
 **Italian text**:
+
 Ero fedele al tempo. Mi sovvenne di essere stato una
 sorta di automa. Ma non stavo forse infilando la
 testa, mentre mi occupavo di queste cose per strada,
