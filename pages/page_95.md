@@ -18,7 +18,13 @@
 
 
 **Annotated text**:
-`I knew, of course, that if I got there in five minutes I would have double the time for my by no means suburban hops at the Caf Royal, without insulting it and myself with John Montagus arrangement for an uninterrupted session at the gaming table. I felt so much at one with Holy Mr. Herbert. Or Mr. Haddock did he call himself? But he was right about these hours, and if that was not holiness, what was? Meed kissing laces, surely he had convulsed us with. For the moment it didnt matter. Because I had decided what to do. Leda and Hebe, I gave my swan a drink, and then drew a sheet of notepaper towards me. I took up my pen, after having laid it down again and again, and, seeing that the ink was sufficient, plunged in. In clear terse phrase, utterly neglecting my contact with his infancy, I told him all, hour by hour, day by day, from the inception to the culmination of the horrid act.`
+`I knew, of course, that if I got there in five minutes I would have double the time for my by no means suburban hops at the Caf Royal, without insulting it and myself with John Montagus arrangement for an uninterrupted session at the gaming table.`
+
+`I felt so much at one with Holy Mr. Herbert. Or Mr. Haddock did he call himself? But he was right about these hours, and if that was not holiness, what was? Meed kissing laces, surely he had convulsed us with.` [Herbert/Haddock](https://en.wikipedia.org/wiki/A._P._Herbert)
+
+`For the moment it didnt matter. Because I had decided what to do. Leda and Hebe, I gave my swan a drink, and then drew a sheet of notepaper towards me.`
+
+`I took up my pen, after having laid it down again and again, and, seeing that the ink was sufficient, plunged in. In clear terse phrase, utterly neglecting my contact with his infancy, I told him all, hour by hour, day by day, from the inception to the culmination of the horrid act.`
 
 Original page:
 [page_95.pdf](https://github.com/vigji/cainjb/blob/main/source_material/pages/page_95.pdf)

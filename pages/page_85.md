@@ -20,11 +20,11 @@
 **Annotated text**:
 `I was true to time. I had, it occurred to me, been something of an automaton.`
 
-`But wasnt I thrusting my head, when bent on such a business in this street, into the twin mouths of two lions, of Mycrofts brother and of the pale but multitudinous Blake?`
+`But wasnt I thrusting my head, when bent on such a business in this street, into the twin mouths of two lions, of Mycrofts brother and of the pale but multitudinous Blake?` Mycrofts brother: Sherlock?
 
-`Often as a schoolboy they had guyed my name to a whiskified objectionable one. Whiskified objectionable was Kipling. And I blubbed with my face in the mackintoshes.`
+`Often as a schoolboy they had guyed my name to a whiskified objectionable one. Whiskified objectionable was Kipling. And I blubbed with my face in the mackintoshes.` "Whiskified objectionable" _Giffen’s Debt_, Kipling
 
-`But I thanked heaven that their childish jibe was true. I was still going strong. The murderer that is to be hung next day, how does he sleep? I only knew that all the weary business was ended.`
+`But I thanked heaven that their childish jibe was true. I was still going strong. The murderer that is to be hung next day, how does he sleep? I only knew that all the weary business was ended.` "The murderer that is to be hung next day, how does he sleep?" _The Sleepers_, Walt Whitman
 
 `I looked across the table and saw that she was asleep. A nice old thing. I put Henrys keenness a few inches below the withered salt-cellar. I drove Henry home, and left him. A dog barked and mourned from the next room, but I could have all the stuff I wanted for ever.`
 

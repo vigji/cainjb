@@ -18,7 +18,7 @@
 
 
 **Annotated text**:
-`In my youth I had been worried that I bore the same name as Newbolts admiral and Shakespeares sergeant, and it had irked me when, in my student days, I had been known as the Smiler with the Knife.Afterwards I found it better in practice to capitalise my third letter.`
+`In my youth I had been worried that I bore the same name as Newbolts admiral and Shakespeares sergeant, and it had irked me when, in my student days, I had been known as the Smiler with the Knife. Afterwards I found it better in practice to capitalise my third letter.`
 
 `The Blue Rocket was still going down next day ; in fact, I knew too much to let it go up. It even seemed to be succeeding. The snowy-banded, dilettante, delicate-handed? At least I was the last.` Aconitum
 
