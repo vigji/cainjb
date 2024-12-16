@@ -65,12 +65,15 @@ There might be two?:
    (Foxglove, Biennale)
    - [21](pages/page_21.md)
    - [6](pages/page_06.md) Nestor guy
- - Lords and Ladies
+ - Lords and Ladies - Arum maculatum
+   The attractive berries are extremely poisonous to many animals, including humans, but harmless to birds, which eat them and propagate the seeds. They contain oxalates of saponins, which have needle-shaped crystals that irritate the skin, mouth, tongue, and throat, and result in swelling of throat, difficulty breathing, burning pain, and upset stomach
    (Lilac-tree, False Lily of the Valley, Adam and Eve, Adders meat, Jack in the pulpit, cuckoopint)
    - [29](pages/page_29.md)
 
  - Lobelia
+   Although it may be used medicinally, consuming lobelia causes adverse effects, which may include sweating, nausea, vomiting, diarrhea, tremors, rapid heartbeat, mental confusion, convulsions, hypothermia, coma, or possibly death- The root is toxic and can be fatal if eaten
    - [29](pages/page_29.md)
+   - [75](pages/page_75.md) Indian tobacco
 
 ## Subjects
  - Miss Doncaster
