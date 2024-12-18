@@ -3,11 +3,11 @@
   - *gender*:
   - *species*:
   - *cues*:
-#### Subjects:
+#### Subjects: bow-wearer
   - *cues*:
 #### Location:
   - *cues*:
-#### Time:
+#### Time: 17th August
   - *cues*:
 #### Events:
   - *cues*:
@@ -19,14 +19,13 @@
 
 **Annotated text**:
 `And she wore a mauve love-knot on her breast, and the ends were unequal.`
+bow-wearing, also on page 08
 
 `He said he'd put that right, but he couldn't find the silly old jossers, as Jasmine might so easily have called  them.` spoonerism? scissors -> jossers (from Italian translation)
 
 `I was old enough to remember her; she  wasnt the one I'd killed.`
 
-`He had read out about some most excellent potent brilliant eyes, swift-darting as the stars, steadfast as the sun ; grey, we said, of the azure-grey colour ; large enough, not of glaring size ; the habitual expression of them vigilance and penetrating sense, rapidity resting on depth.`
-
-`When she asked him why he had chosen those and whose they were, he answered : Father Freds, and because it was closing day in Potsdam.`
+`He had read out about some most excellent potent brilliant eyes, swift-darting as the stars, steadfast as the sun ; grey, we said, of the azure-grey colour ; large enough, not of glaring size ; the habitual expression of them vigilance and penetrating sense, rapidity resting on depth. When she asked him why he had chosen those and whose they were, he answered : Father Freds, and because it was closing day in Potsdam.` "Most excellent potent brilliant eyes, swift-darting as the stars, steadfast as the sun; gray, we said, of the azure-gray colour; large enough, not of glaring size; the habitual expression of them vigilance and penetrating sense, rapidity resting on depth" Carlyle writing about Frederick the Great, dead 17th August in Potsdam
 
 `I had had a dry shampoo that morning, a thing I adored, especially on the old chest. Rather a waste of time, though, as it turned out.`
 
