@@ -9,6 +9,7 @@
  - [21](pages/page_21.md) if he is that poisoner
  - [36](pages/page_36.md) if he is that poisoner
  - [71](pages/page_71.md) if he is that poisoner
+ - [80](pages/page_80.md) if he is that poisoner
  - mentions:  
     - [32](pages/page_32.md)
     - [22](pages/page_22.md) 
@@ -109,6 +110,11 @@ There might be two?:
  - other pet:
    - [19](pages/page_19.md)
 
+ - Sandy: hunting dog
+   - [79](pages/page_79.md)
+ - Flora: Jasmine's dog?
+   - [88](pages/page_88.md)
 
 Victims
  - Parceval? [77](pages/page_77.md)
+ - Sir Paul? [80](pages/page_80.md)

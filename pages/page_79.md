@@ -20,7 +20,7 @@
 **Annotated text**:
 `It was that day my friend Sandy told me he was sure he wouldnt sleep all night. There was, of course, a difference between us. I couldnt get all worked up like that.`
 
-`You see, next day he would be allowed to fetch back Lagopus Scoticus, whom I knew well, and he hadnt been allowed to do that for such a long time. I was fond of Sandy and rejoiced with him.`
+`You see, next day he would be allowed to fetch back Lagopus Scoticus, whom I knew well, and he hadnt been allowed to do that for such a long time. I was fond of Sandy and rejoiced with him.` Lagopus Scoticus: red grouse, bird; Scotland/Ireland?
 
 `But I felt, I couldnt help feeling, that there was something wrong, something disjoined about my very front.`
 
