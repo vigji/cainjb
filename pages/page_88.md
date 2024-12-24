@@ -3,7 +3,7 @@
   - *gender*:
   - *species*: dog
   - *cues*:
-#### Subjects:
+#### Subjects: Jasmine, Flora/Tom
   - *cues*:
 #### Location:
   - *cues*:
