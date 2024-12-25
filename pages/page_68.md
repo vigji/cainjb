@@ -21,9 +21,9 @@
 `Out cascaded the darling young. It was no tragedy ; that was, no tragedy comparable with the fire here in the Latham Chapel in 1906.`
  Selby, North Yorkshire
 
-`Yet, I supposed, to wantonly look back like that buttered no parsnips.`
+`Yet, I supposed, to wantonly look back like that buttered no parsnips.`  "Fine words butter no parsnips"
 
-`Just like reverting to old tunes after they were damned and dead : how often had I not caught myself whistling Alexanders Ragtime Wedding Feast in my frugal bath.`
+`Just like reverting to old tunes after they were damned and dead : how often had I not caught myself whistling Alexanders Ragtime Wedding Feast in my frugal bath.` Alexander's Ragtime Band? [lyrics](http://www.ragpiano.com/lyrics/lyalex.htm)
 
 `I felt that Henry was about all I could hope to cope with, or with whom, if you like, I could hope to cope.`
 

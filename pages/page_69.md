@@ -18,7 +18,15 @@
 
 
 **Annotated text**:
-`I came out of my waking dream with temples moist and tongue most damnably dry. I had to believe myself, for I had never previously deceived myself. Yes, I cam to myself, if you must know, when yon same star, thats westward from the pole, had made his course to illume that part of heaven where now it burns. A time, I thought, not only utterly depressing in itself, but also, when one is alone, as Dutch as dillwater. What, I asked myself, ought I to do? The answer was plain enough. When I was ten I had messily collected eggs. When I was twelve I had collected bus tickets and, if I had known where to look for them, would undoubtedly have collected whole ickets also. The answer was plain enough. I must---oh, final and most difficult hobby!---collect myself. It was ghastly. I had seen every minute of it. I had seen a poor old man done slowly to death before my eyes.`
+`I came out of my waking dream with temples moist and tongue most damnably dry.`
+
+`I had to believe myself, for I had never previously deceived myself. Yes, I cam to myself, if you must know, when yon same star, thats westward from the pole, had made his course to illume that part of heaven where now it burns.` Shakespeare's Hamlet, Act 
+
+`A time, I thought, not only utterly depressing in itself, but also, when one is alone, as Dutch as dillwater.`
+
+` What, I asked myself, ought I to do? The answer was plain enough. When I was ten I had messily collected eggs. When I was twelve I had collected bus tickets and, if I had known where to look for them, would undoubtedly have collected whole ickets also.` typo, correct?
+
+`The answer was plain enough. I must---oh, final and most difficult hobby!---collect myself. It was ghastly. I had seen every minute of it. I had seen a poor old man done slowly to death before my eyes.`
 
 
 ```
