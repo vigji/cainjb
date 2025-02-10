@@ -20,15 +20,15 @@
 **Annotated text**:
 `I started to read Hardys exquisite production, and every muscle of my brain was enthralled until I came to the end.`
 
-`Just such another must have been the Monk Arnulphus when he uncorked his ink. His palette gleamed with a burnished green as bright as a dragon-flys skin : his gold-leaf shone like the robe of a queen.`
+`Just such another must have been the Monk Arnulphus when he uncorked his ink. His palette gleamed with a burnished green as bright as a dragon-flys skin : his gold-leaf shone like the robe of a queen.` _The Court Historian_ by George Walter Thornbury
 
 `There could be no slightest doubt. I would now be able to reap the harvest. And Ruth would have little gleaning.`
 
 `I thought of her mother and laughed aloud. All women biome like their mothers. That is their tragedy. No man does. Thats his.`
 
-`I could not help echoing Jacks question : is that clever? The Monk Arnulphus, with a dash of Jim the Penman.`
+`I could not help echoing Jacks question : is that clever? The Monk Arnulphus, with a dash of Jim the Penman.` Jim the Penman: notorious 19th-century criminal, James Townsend Saward (1798–1875), who was a British barrister by profession but became infamous as a master forger and swindler
 
-`How, I wondered, did I strike him? I knew I should like to. His was obviously a slow methodical brain, used to pigeon-holing by type. In that case, I thought I knew the type : learned in a macabre way, even distinguished.`
+`How, I wondered, did I strike him? I knew I should like to. His was obviously a slow methodical brain, used to pigeon-holing by type. In that case, I thought I knew the type: learned in a macabre way, even distinguished.`
 
 
 
